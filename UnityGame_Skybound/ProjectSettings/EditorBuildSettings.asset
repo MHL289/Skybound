@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Escenas/PantallaMenu.unity
+    path: Assets/Skybound/Escenas/PantallaMenu.unity
     guid: 842efe57d16722d4eb6dada49cd68b26
   - enabled: 1
-    path: Assets/Escenas/PantallaIElegirAvion.unity
+    path: Assets/Skybound/Escenas/PantallaIElegirAvion.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Skybound/Escenas/PantallaDeJuego.unity
+    guid: 6d67f653b860dd94c91a15eac17a08df
   m_configObjects: {}
