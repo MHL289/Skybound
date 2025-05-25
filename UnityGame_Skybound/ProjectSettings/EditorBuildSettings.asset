@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Skybound/Escenas/PantallaDeJuego.unity
     guid: 6d67f653b860dd94c91a15eac17a08df
+  - enabled: 1
+    path: Assets/Skybound/Escenas/Nivel2.unity
+    guid: 48fb1035e05d1184eb2780e9b3e756dc
   m_configObjects: {}
